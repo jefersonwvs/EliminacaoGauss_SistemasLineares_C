@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1567197844 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\sistemaslineares\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567196970 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\sistemaslineares\biblioteca_sistemaslineares.h
+
+1567197846 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\sistemaslineares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca_SistemasLineares.h"
+
+1567565682 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca_SistemasLineares.h"
+
+1567563852 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares\biblioteca_sistemaslineares.h
+
+1567565394 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567699190 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - modificando\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567692010 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - modificando\biblioteca_sistemaslineares.h
+
+1567699148 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - modificando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567780362 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567712400 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável\biblioteca_sistemaslineares.h
+
+1567899748 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1568147936 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável - copia\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567712400 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável - copia\biblioteca_sistemaslineares.h
+
+1568147420 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares - estável - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1568147936 source:d:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1567712400 d:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.h
+
+1568422864 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1568423174 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.h
+
+1568427834 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\materiais\sistemaslineares 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1568422864 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\trabalhos\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
+1568423174 h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\trabalhos\materiais\sistemaslineares 2.1\biblioteca_sistemaslineares.h
+
+1568855204 source:h:\estudos\4º semestre_29.07.2019 - 07.12.2019\métodos numéricos para computação\trabalhos\materiais\sistemaslineares 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"biblioteca_SistemasLineares.h"
+
